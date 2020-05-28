@@ -1,0 +1,1 @@
+* The note taker is an application which enables users to write, save and delete notes.
